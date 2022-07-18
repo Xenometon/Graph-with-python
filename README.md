@@ -1,5 +1,11 @@
 # Graph-with-python
 
-A simple Graph made through python module termed 'matplotlib'
+A simple Graph made through python module termed **Matplotlib** .
 
-If not installed prior 'pip install matplotlib'
+<br>
+
+Installation command for CMD-
+
+<br>
+
+`pip install matplotlib`
