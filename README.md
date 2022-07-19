@@ -1,6 +1,6 @@
 # Graph-with-python
 
-A simple Graph made through python module termed **Matplotlib** .
+A simple Graph use case example, made through **Python** module: **Matplotlib** .
 
 <br>
 
